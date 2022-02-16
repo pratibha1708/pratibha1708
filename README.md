@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Pratibha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratibha1708&count_private=true)](https://github.com/pratibha1708/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratibha1708)](https://github.com/pratibha1708/github-readme-stats)
